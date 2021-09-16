@@ -1,0 +1,52 @@
+
+.color-nav {
+  background-color: rgba(17, 39, 60, 1);
+}
+
+.color-sidebar {
+  display: 'flex';
+  background-color: rgba(17, 39, 60, 1);
+  justify-content: 'center';
+  align-items: 'center';
+}
+
+.color-button {
+  background-color: '#4badf1';
+  color: white;
+}
+
+.color-background1 {
+  background-color: '#0d335f';
+}
+
+.font {
+  color: 'white';
+}
+
+.image-login {
+  background-repeat: 'no-repeat';
+  background-size: 'cover';
+  background-position: 'center';
+  overflow: 'hidden';
+}
+
+.image-login-logo {
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+}
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+  background-color: #f0f8ff !important;
+}
+
+
+
+.table-responsive {
+  height: 570px;
+  overflow-y: scroll;
+
+}
+
+
+
